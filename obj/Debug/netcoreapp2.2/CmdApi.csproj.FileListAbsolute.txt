@@ -1,0 +1,14 @@
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/bin/Debug/netcoreapp2.2/CmdApi.deps.json
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/bin/Debug/netcoreapp2.2/CmdApi.runtimeconfig.json
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/bin/Debug/netcoreapp2.2/CmdApi.runtimeconfig.dev.json
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/bin/Debug/netcoreapp2.2/CmdApi.dll
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/bin/Debug/netcoreapp2.2/CmdApi.pdb
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.csprojAssemblyReference.cache
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.csproj.CoreCompileInputs.cache
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.RazorAssemblyInfo.cache
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.RazorAssemblyInfo.cs
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.AssemblyInfoInputs.cache
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.AssemblyInfo.cs
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.RazorTargetAssemblyInfo.cache
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.dll
+/Users/aallen195/Workspace/CSharp/MVC_Tutorial/CmdApi/obj/Debug/netcoreapp2.2/CmdApi.pdb
