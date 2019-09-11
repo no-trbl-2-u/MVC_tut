@@ -12,6 +12,7 @@ namespace CmdApi.Controllers
   [Route("api/[controller]")]
   public class CommandsController : ControllerBase
   {
+    [HttpGet]
     public ActionResult<IEnumerable<string>> GetString()
     {
       return new string[] { "This", "Is", "A", "Hard", "Coded", "Array" };
